@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.
+# 6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.
 
 num1 = input("Informe o 1º número inteiro: ")
 num2 = input("Informe o 2º número inteiro: ")
