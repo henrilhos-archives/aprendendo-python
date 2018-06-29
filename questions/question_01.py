@@ -6,8 +6,8 @@
 base = input("Informe a base: ")
 altura = input("Informe a altura: ")
 
-area = (base * altura)
-perimetro = (base * 2) + (altura * 2)
+area = (int(base) * int(altura))
+perimetro = (int(base) * 2) + (int(altura) * 2)
 
 print("\nÁrea: " + str(area))
 print("Perímetro: " + str(perimetro))

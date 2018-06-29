@@ -5,8 +5,8 @@
 
 lado = input("Informe a medida do lado: ")
 
-area = lado ** 2
-perimetro = lado * 4
+area = int(lado) ** 2
+perimetro = int(lado) * 4
 
 print("\nÁrea: " + str(area))
 print("Perímetro: " + str(perimetro))

@@ -7,8 +7,8 @@ pi = 3.14
 
 raio = input("Informe o raio da circunferência: ")
 
-area = pi * (raio ** 2)
-perimetro = 2 * pi * raio
+area = int(pi) * (int(raio) ** 2)
+perimetro = 2 * int(pi) * int(raio)
 
 print("\nÁrea: " + str(area))
 print("Perímetro: " + str(perimetro))
