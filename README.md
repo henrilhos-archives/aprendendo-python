@@ -1,4 +1,4 @@
-.py)# Aprendendo Python
+# Aprendendo Python
 99 questões de lógica de programação para aprender Python
 
 [1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_01.py)
