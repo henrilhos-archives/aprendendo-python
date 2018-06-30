@@ -1,30 +1,29 @@
 # Aprendendo Python
 99 questões de lógica de programação para aprender Python
 
-Resolvido
-[1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_01.py)
+Resolvido [1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_01.py)
 
-[2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_02.py)
+Resolvido [2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_02.py)
 
-[3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_03.py)
+Resolvido [3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_03.py)
 
-[4. Dado os três lados de um triângulo determinar o perímetro do mesmo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_04.py)
+Resolvido [4. Dado os três lados de um triângulo determinar o perímetro do mesmo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_04.py)
 
-[5. Ler um número inteiro e exibir o seu sucessor.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_05.py)
+Resolvido [5. Ler um número inteiro e exibir o seu sucessor.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_05.py)
 
-[6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_06.py)
+Resolvido [6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_06.py)
 
-[7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_07.py)
+Resolvido [7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_07.py)
 
-[8. Dado que a fórmula para conversão de Fahrenheit para Celsius é C = 5/9 (F – 32), leu um valor de temperatura em Fahrenheit e exibi-lo em Celsius](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_08.py)
+Resolvido [8. Dado que a fórmula para conversão de Fahrenheit para Celsius é C = 5/9 (F – 32), leu um valor de temperatura em Fahrenheit e exibi-lo em Celsius](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_08.py)
 
-[9. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_09.py)
+Resolvido [9. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_09.py)
 
-[10. Converter um inteiro informado menor que 32 para sua representação em binário ](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_10.py)
+Resolvido [10. Converter um inteiro informado menor que 32 para sua representação em binário ](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_10.py)
 
-[11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_11.py)
+Resolvido [11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_11.py)
 
-[12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_12.py)
+Resolvido [12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_12.py)
 
 [13. Um circuito elétrico é composto de duas resistências R1 e R2 em paralelo, e ambas em sequência de uma resistência R3. Faça um algoritmo para calcular a resistência equivalente desse circuito.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_13.py)
 
