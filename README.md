@@ -35,7 +35,7 @@ Resolvido [15. Num dia de sol, você deseja medir a altura de um prédio, porém
 
 [17. Um programa para gerenciar os saques de um caixa eletrônico deve possuir algum mecanismo para decidir o número de notas de cada valor que deve ser disponibilizado para o cliente que realizou o saque.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_17.py)
 
-[18. Escreva um programa que permute o valor de duas variáveis inteiras.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_18.py)
+Resolvido [18. Escreva um programa que permute o valor de duas variáveis inteiras.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_18.py)
 
 [19. Escreva um programa que calcule a raiz de uma equação do primeiro grau.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_19.py)
 
