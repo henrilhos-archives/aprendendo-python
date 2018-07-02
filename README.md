@@ -69,7 +69,7 @@ Resolvido [24. Escreva um programa que leia três números e mostre o maior entr
 
 [34. Uma financeira usa o seguinte critério para conceder empréstimos: o valor total do empréstimo deve ser até dez vezes o valor da renda mensal do solicitante e o valor da prestação deve ser no máximo 30% da renda mensal do solicitante. Escreva um programa que leia a renda mensal de um solicitante, o valor total do empréstimo solicitado e o número de prestações que o solicitante deseja pagar e informe se o empréstimo pode ou não ser concedido.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_34.py)
 
-[35. Escreva um programa que leia um número inteiro de 1 a 7 e informe o dia da semana correspondente, sendo domingo o dia de número 1. Se o número não corresponder a um dia da semana, mostre uma mensagem de erro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_35.py)
+Resolvido [35. Escreva um programa que leia um número inteiro de 1 a 7 e informe o dia da semana correspondente, sendo domingo o dia de número 1. Se o número não corresponder a um dia da semana, mostre uma mensagem de erro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_35.py)
 
 [36. Em uma certificação são feitos são feitos 5 exames (I, II, III, IV e V). Escreva um programa que leia as notas destes exames e imprima a classificação do aluno, sabendo que a média é 70.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_36.py)
 
