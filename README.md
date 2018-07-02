@@ -71,7 +71,7 @@ Resolvido [24. Escreva um programa que leia três números e mostre o maior entr
 
 Resolvido [35. Escreva um programa que leia um número inteiro de 1 a 7 e informe o dia da semana correspondente, sendo domingo o dia de número 1. Se o número não corresponder a um dia da semana, mostre uma mensagem de erro.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_35.py)
 
-[36. Em uma certificação são feitos são feitos 5 exames (I, II, III, IV e V). Escreva um programa que leia as notas destes exames e imprima a classificação do aluno, sabendo que a média é 70.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_36.py)
+Resolvido [36. Em uma certificação são feitos são feitos 5 exames (I, II, III, IV e V). Escreva um programa que leia as notas destes exames e imprima a classificação do aluno, sabendo que a média é 70.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_36.py)
 
 [37. Uma Cia de pulverização utiliza avião para pulverizar lavouras. Os custos de pulverização dependem do tipo de praga e da área a ser contratada conforme a tabela:](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_37.py)
 
