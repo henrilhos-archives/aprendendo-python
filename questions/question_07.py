@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# 7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.
+# 7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos,
+# meses e dias.
 
 anos = 0
 meses = 0

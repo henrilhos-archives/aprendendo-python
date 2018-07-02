@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# 3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.
+# 3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro
+# da mesma.
 
 pi = 3.14
 
