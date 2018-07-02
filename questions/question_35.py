@@ -14,15 +14,20 @@ if (int(diaNumero) == 1):
 elif (int(diaNumero) == 2):
     diaSemana = "segunda-feira"
 elif (int(diaNumero) == 3):
-    diaSemana = "segunda-feira"
+    diaSemana = "terça-feira"
 elif (int(diaNumero) == 4):
-    diaSemana = "segunda-feira"
+    diaSemana = "quarta-feira"
 elif (int(diaNumero) == 5):
-    diaSemana = "segunda-feira"
+    diaSemana = "quinta-feira"
 elif (int(diaNumero) == 6):
-    diaSemana = "segunda-feira"
+    diaSemana = "sexta-feira"
 elif (int(diaNumero) == 7):
-    diaSemana = "segunda-feira"
-else (int(diaNumero) == 2):
+    diaSemana = "sábado"
+else:
     aviso = "Opção inválida!"
     ativaAviso = 1
+
+if (int(ativaAviso) == 1):
+    print("\n" + str(aviso))
+else:
+    print("\nO valor númerico corresponde a(o) " + diaSemana)
