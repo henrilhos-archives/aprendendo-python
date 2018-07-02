@@ -41,7 +41,7 @@ Resolvido [18. Escreva um programa que permute o valor de duas variáveis inteir
 
 [20. Uma loja vende seus produtos no sistema entrada mais duas prestações, sendo a entrada maior do que ou igual às duas prestações, as quais devem ser iguais, inteiras e as maiores possíveis.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_20.py)
 
-[21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_21.py)
+Resolvido [21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_21.py)
 
 [22. Escreva um programa que leia um número e exiba o seu módulo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_22.py)
 

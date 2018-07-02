@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# 23. Escreva um programa que leia um número e imprima se este número é ou não par.
+# 23. Escreva um programa que leia um número e imprima se este número é ou não
+# par.
 
 numero = input("Insira um número: ")
 
