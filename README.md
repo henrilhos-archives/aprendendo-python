@@ -29,7 +29,7 @@ Resolvido [12. Faça um algoritmo que transforme uma velocidade fornecida em m/s
 
 [14. Em uma cidade se deseja sincronizar os semáforos. Com isto, quando um semáforo abre (fica verde), os veículos que nele estavam parados tendem a encontrar os próximos semáforos também abertos.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_14.py)
 
-[15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_15.py)
+Resolvido [15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_15.py)
 
 [16. Escreva um programa para gerar o invertido de um número com três algarismos (exemplo: o invertido de 498 é 894).](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_16.py)
 
@@ -45,9 +45,9 @@ Resolvido [12. Faça um algoritmo que transforme uma velocidade fornecida em m/s
 
 [22. Escreva um programa que leia um número e exiba o seu módulo.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_22.py)
 
-[23. Escreva um programa que leia um número e imprima se este número é ou não par.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_23.py)
+Resolvido [23. Escreva um programa que leia um número e imprima se este número é ou não par.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_23.py)
 
-[24. Escreva um programa que leia três números e mostre o maior entre eles.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_24.py)
+Resolvido [24. Escreva um programa que leia três números e mostre o maior entre eles.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_24.py)
 
 [25. Escreva um programa que leia o número equivalente ao mês e imprima a quantidade de dias deste mês.](https://github.com/castilh0s/aprendendo-python/blob/master/questions/question_25.py)
 
